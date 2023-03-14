@@ -1,0 +1,4 @@
+rohan      sharma           
+mahendra    dhoni               
+Ruby  80
+noier 90

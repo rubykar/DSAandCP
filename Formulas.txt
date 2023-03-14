@@ -1,0 +1,2 @@
+RELATION BETWEEN NUMBER OF DIGITS AND THE BASE OF A DECIMAL NUMBER
+dig = (math.floor(math.log(n) / math.log(base)) + 1)
